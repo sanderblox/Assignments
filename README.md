@@ -1,5 +1,5 @@
 # Assignments
 
-[Assignment 1](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_2-checkpoint.ipynb)
-[Assignment 2](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_4%20(1).ipynb)
-[Assignment 3](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_5.ipynb)
+## [Assignment 1](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_2-checkpoint.ipynb)
+## [Assignment 2](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_4%20(1).ipynb)
+## [Assignment 3](https://github.com/sanderblox/Assignments/blob/master/Assignment_week_5.ipynb)
